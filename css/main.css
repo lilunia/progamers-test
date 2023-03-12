@@ -121,7 +121,7 @@ header p {
 header .hero-img {
   position: relative;
   height: 100vh;
-  background-image: url(/img/playstation_640.jpg);
+  background-image: url(img/playstation_640.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -173,7 +173,7 @@ header .fa-chevron-down {
 
 .aboutus-hero {
   position: relative;
-  background-image: url(/img/playstation_640.jpg);
+  background-image: url(img/playstation_640.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -241,7 +241,7 @@ header .fa-chevron-down {
 
 .team {
   position: relative;
-  background-image: url(/img/meeting-room_640.jpg);
+  background-image: url(img/meeting-room_640.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -297,7 +297,7 @@ header .fa-chevron-down {
 
 .contact {
   position: relative;
-  background-image: url(/img/skyline_640.jpg);
+  background-image: url(img/skyline_640.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -372,7 +372,7 @@ header .fa-chevron-down {
     scroll-padding-top: 71px;
   }
   .aboutus-hero {
-    background-image: url(/img/technology_1280.jpg);
+    background-image: url(img/technology_1280.jpg);
   }
   .prices .price-info {
     font-size: 18px;
